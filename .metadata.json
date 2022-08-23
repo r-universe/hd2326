@@ -1,5 +1,8 @@
 [
   {
     "package": "iterClust"
+  },
+  {
+    "package": "pageRank"
   }
 ]
