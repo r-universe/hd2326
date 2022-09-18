@@ -8,8 +8,3 @@
 	url = https://github.com/hd2326/iterclust
 	shallow = true
 	registered = true
-[submodule "pageRank"]
-	path = pageRank
-	url = https://github.com/hd2326/pagerank
-	shallow = true
-	registered = true
