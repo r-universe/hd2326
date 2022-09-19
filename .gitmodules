@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "iterClust"]
+	path = iterClust
+	url = https://github.com/hd2326/iterclust
+	shallow = true
+	registered = true
+[submodule "pageRank"]
+	path = pageRank
+	url = https://github.com/hd2326/pagerank
+	shallow = true
+	registered = true
